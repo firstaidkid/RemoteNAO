@@ -8,5 +8,5 @@ Lecturers: Prof. Dr. Johannes Maucher, Patrick Bader
 Project-Coach: Christoph Wendt
 Students: Steffen Kolb, Christian Patzelt, Axel Perschmann
 
-See it in action on vimeo:
+See it in action on [vimeo](https://vimeo.com/60152166)
 [![RemoteNAO](https://i.vimeocdn.com/video/418551172_960.jpg)](https://vimeo.com/60152166)
